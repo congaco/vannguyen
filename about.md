@@ -8,7 +8,7 @@ Welcome to my blog!
 
 ### More Information
 
-This blog is about some outcomes of book reading
+This blog is about interesting stuff, for example outcomes of book reading
 
 ### Contact me
 
